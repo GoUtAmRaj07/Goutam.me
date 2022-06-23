@@ -1,0 +1,29 @@
+.container.interest__container {
+    width : 40%;
+
+}
+
+.interest__avatar {
+    width : 15rem;
+    overflow : hidden;
+    aspect-ratio: 1/1;
+    margin : 0 auto 1rem;
+    border-radius : 50%;
+    border : 0.2rem solid var(--color-primary-variant);
+}
+
+.interest {
+    background : var(--color-bg-variant);
+    text-align : center;
+    padding : 2rem;
+    border-radius : 2rem;
+    user-select : none;
+}
+
+.intrest__review {
+    color : var (--color-light);
+    font-weight : 300;
+    display : block;
+    width : 80%;
+    margin : 0.8rem auto 0;
+}
