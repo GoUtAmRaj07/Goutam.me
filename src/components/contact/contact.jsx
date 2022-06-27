@@ -25,18 +25,18 @@ const contact = () => {
             <BsWhatsapp/>
             <h4>Whatsapp me</h4>
             <h5></h5>
-            <a href="https://api.whatsapp.com/send?phone+919798262081" target="_blank">Sent a mail</a>
+            <a href="https://api.whatsapp.com/send?phone+919798262081" target="_blank">Text me on Whatsapp</a>
           </article>
 
 
         </div>
         {/* END OF CONTACT */}
-        <form action="">
+        {/* <form action="">
           <input type="text" name = "name" placeholder="your full name" required/>
           <input type="email" name = "email" placeholder="your Email" required/>
           <textarea name = "message" rows = "7" placeholder="your message" required></textarea>
           <button type="submit" className="btn btn-primary">Send message</button>
-        </form>
+        </form> */}
       </div>
     </section>
   )

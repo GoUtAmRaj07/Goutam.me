@@ -6,7 +6,7 @@ import Experience from './components/experience/experience'
 import Services from './components/services/services'
 import Portfolio from './components/portfolio/portfolio'
 import Chess from './components/chess/chess'
-import Fitness from './components/fitness/fitness'
+import Projects from './components/projects/projects'
 import Sketches from './components/sketches/sketches'
 import Testimonials from './components/testimonials/testimonials'
 import Contact from './components/contact/contact'
@@ -21,6 +21,7 @@ const App = () => {
             <Experience />
             <Services />
             <Portfolio />
+            <Projects />
             <Chess />
             <Contact />
             <Footer />

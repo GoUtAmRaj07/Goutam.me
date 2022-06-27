@@ -12,7 +12,7 @@ const experience = () => {
         <div className="experience__coding">
 
 
-          <h3>Coding Experience</h3>
+          <h3>Related to Programming</h3>
           <div className="experience__content">
             <article className="experience__details">
               <BsFillPatchCheckFill />
