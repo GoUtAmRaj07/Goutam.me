@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Goutam.me/static/css/main.0e776e9d.css",
+    "main.js": "/Goutam.me/static/js/main.859c7d1d.js",
+    "static/media/final-pic.jpeg": "/Goutam.me/static/media/final-pic.3902621d44d7cdbe2797.jpeg",
+    "static/media/sketch-5.jpeg": "/Goutam.me/static/media/sketch-5.5adad25c6b5a131310f7.jpeg",
+    "static/media/sketch-6.jpeg": "/Goutam.me/static/media/sketch-6.406fcdf6f5fcccf9fa7f.jpeg",
+    "static/media/5dchess1.png": "/Goutam.me/static/media/5dchess1.85fb559d7dde5df0e173.png",
+    "static/media/chess-21.jpeg": "/Goutam.me/static/media/chess-21.81a0aea533bd41dec927.jpeg",
+    "static/media/football.jpg": "/Goutam.me/static/media/football.275884d704b30813fc0f.jpg",
+    "static/media/profile-pic.jpeg": "/Goutam.me/static/media/profile-pic.df53447bfbd181a8ade4.jpeg",
+    "static/media/fitness-2.jpeg": "/Goutam.me/static/media/fitness-2.925317cb4d2e7920cfcb.jpeg",
+    "static/media/Cyber-security1.jpg": "/Goutam.me/static/media/Cyber-security1.5e792a7e2c69bd4e16c6.jpg",
+    "index.html": "/Goutam.me/index.html",
+    "main.0e776e9d.css.map": "/Goutam.me/static/css/main.0e776e9d.css.map",
+    "main.859c7d1d.js.map": "/Goutam.me/static/js/main.859c7d1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e776e9d.css",
+    "static/js/main.859c7d1d.js"
+  ]
+}
